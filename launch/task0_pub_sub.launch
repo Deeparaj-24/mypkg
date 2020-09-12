@@ -1,0 +1,7 @@
+
+<launch>
+	<node pkg = "mypkg" type = "task0_pub.py" name = "talker" />
+	<node pkg = "mypkg" type = "task0_sub.py" name = "listener" output="screen" />
+
+
+</launch>
