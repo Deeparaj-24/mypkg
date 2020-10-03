@@ -1,5 +1,7 @@
 # mypkg
-This contains codes for week0 task of Alphabot Internship
+This repository contains codes for week0 task of Alphabot Internship and the documenation that contains all the learning resources
+
+
 
 
 Clone this repository to the src folder of your workspace and run catkin make from your workspace.
